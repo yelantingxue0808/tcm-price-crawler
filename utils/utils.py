@@ -4,6 +4,7 @@ from config import settings
 import os
 
 
+
 async def batch_fetch(url_list):
     """
     协程批量执行
